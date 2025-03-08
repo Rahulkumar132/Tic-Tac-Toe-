@@ -1,0 +1,40 @@
+body {
+        font-family: cursive;
+        background-image: linear-gradient(to right, white, purple);
+    }
+    h1 {
+        text-align: center;
+    }
+    table {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .b1, .b2, .b3, .b4, .b5, .b6, .b7, .b8, .b9 {
+        padding: 30px;
+        width: 40px;
+    }
+    p {
+        text-align: center;
+        font-weight: bold;
+    }
+    .btn {
+        font-size: 20px;
+        background-color: red;
+        color: black;
+        border: none;
+        padding: 10px;
+        font-family: cursive;
+        font-weight:bold;
+    }
+    input[type="text"] {
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    #msg {
+        font-weight:bold;
+    }
+.rights { 
+ font-weight: bold;
+ font-size:20px;
+}
